@@ -1,0 +1,6 @@
+// expected relational operand
+var x, y;
+begin	
+  x := 2;
+  if x 1 then y := x;
+end.

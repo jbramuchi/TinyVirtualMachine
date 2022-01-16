@@ -1,0 +1,7 @@
+// expects then token
+var x;
+begin	
+  x := 2;
+  if x > 1
+    x := 1;
+end.                      

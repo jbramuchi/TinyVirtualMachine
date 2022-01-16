@@ -1,0 +1,7 @@
+// expected a number
+var x, y;
+const z = ;
+begin
+	y := 3;
+	x := y + 56;
+end.

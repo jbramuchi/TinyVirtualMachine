@@ -1,0 +1,11 @@
+// expected identifier
+var x, y;
+procedure A;
+   begin
+   z := 2;
+   end;
+
+begin
+call A
+y := z + 2;
+end.

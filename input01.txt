@@ -1,0 +1,5 @@
+// Identifier not in symbol table
+var y;
+begin	
+  x := y + 56;
+end.                      

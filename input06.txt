@@ -1,0 +1,6 @@
+// expects end token
+var x, y;
+begin
+  y := 2;	
+  x := y + 56;
+.

@@ -1,0 +1,7 @@
+// expects do token
+var x, y;
+begin	
+  x := 2;
+  while x > 0
+    x := x - 1;
+end.
